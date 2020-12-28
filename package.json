@@ -1,0 +1,23 @@
+{
+  "name": "emoji-data-enricher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirawashdeh/emoji-data-enricher.git"
+  },
+  "author": "Ali Rawashdeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alirawashdeh/emoji-data-enricher/issues"
+  },
+  "homepage": "https://github.com/alirawashdeh/emoji-data-enricher#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
